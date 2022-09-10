@@ -1,4 +1,5 @@
 # Demo
 An example for PRATIC students Fall 2022
 
-We have some collaborators now.
+We have some collaborators now. Welcome!
+
